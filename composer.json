@@ -30,6 +30,6 @@
     "twig/twig": ">=1.8",
     "twig/extensions": "~1.0"
   },
-  "minimum-stability": "beta",
+  "minimum-stability": "dev",
   "prefer-stable": true
 }
